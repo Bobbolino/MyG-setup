@@ -29,10 +29,22 @@ h1 {
 }
 
 body {
-  margin: 0px;
+  display: flex;
+  flex-direction: column;
+
+  min-height: 100vh;
+  margin: 0;
 }
 
 main {
   margin-left: 20px;
   margin-right: 20px;
+  flex: 1;
+}
+
+footer {
+  background-color: hsl(203, 100%, 52%);
+  color: white;
+  padding: 1%;
+  text-align: center;
 }
