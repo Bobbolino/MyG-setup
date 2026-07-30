@@ -1,6 +1,6 @@
 # MyG-setup
 
-En enkel hemsida där jag tränar på HTML och CSS genom att presentera min gamingdator.
+En enkel hemsida där jag lär mig mer om HTML och CSS genom att presentera min gamingdator.
 
 ## Teknik
 
