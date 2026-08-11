@@ -1,5 +1,13 @@
-h1 {
+.gsetup {
   text-align: center;
+  margin: 10;
+}
+
+.gsetup a {
+  text-align: center;
+  font-size: 40px;
+  text-decoration: none;
+  color: black;
 }
 
 .navbar ul {
